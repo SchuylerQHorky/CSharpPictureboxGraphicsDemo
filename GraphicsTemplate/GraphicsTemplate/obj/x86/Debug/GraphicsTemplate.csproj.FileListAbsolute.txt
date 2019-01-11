@@ -1,0 +1,16 @@
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\bin\Debug\GraphicsTemplate.exe
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\bin\Debug\GraphicsTemplate.pdb
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.Form1.resources
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.Properties.Resources.resources
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.exe
+c:\users\schuyler\documents\visual studio 2010\Projects\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.pdb
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.exe
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.pdb
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\bin\Debug\GraphicsTemplate.exe
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\bin\Debug\GraphicsTemplate.pdb
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.Form1.resources
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.Properties.Resources.resources
+C:\Users\Schuyler\Desktop\ArchiveCode\GraphicsTemplate\GraphicsTemplate\GraphicsTemplate\obj\x86\Debug\GraphicsTemplate.csproj.GenerateResource.Cache
